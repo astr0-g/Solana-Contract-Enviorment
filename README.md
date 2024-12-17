@@ -13,7 +13,7 @@ Make sure you have the following installed:
 3. **Node.js** (v20.18.0) and **Yarn**
 4. **Anchor CLI** (v0.29.0)
 
-Refer to the [installation script](./install.sh) for an automated setup.
+Refer to the [installation script](./setup_solana_env.sh) for an automated setup.
 to use
 ```
 nano setup_solana_env.sh

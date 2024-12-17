@@ -22,9 +22,9 @@ nano setup_solana_env.sh
 ```
 chmod +x setup_solana_env.sh
 ```
-./setup_solana_env.sh
-```
 
+```
+./setup_solana_env.sh
 ```
 ---
 

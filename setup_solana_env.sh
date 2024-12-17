@@ -7,9 +7,9 @@ echo ">>> Installing build-essential, pkg-config, and libssl-dev..."
 apt-get update
 apt-get install -y build-essential pkg-config libssl-dev curl
 
-# 2. Install Rust (Version 1.70.0)
-echo ">>> Installing Rust 1.70.0..."
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain 1.70.0
+# 2. Install Rust (Version 1.76.0)
+echo ">>> Installing Rust 1.76.0..."
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -s -- -y --default-toolchain 1.76.0
 source $HOME/.cargo/env
 
 # 3. Install Solana CLI (Version v1.17.25)

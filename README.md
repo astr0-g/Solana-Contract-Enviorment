@@ -89,6 +89,11 @@ In another terminal, deploy your program:
 anchor deploy
 ```
 
+generate a keypair if you haven't 
+```bash
+solana-keygen new -o /root/.config/solana/id.json
+```
+
 The program ID will be generated after successful deployment. Update the `Anchor.toml` file with the new program ID.
 
 ### 5. Verify the Deployment

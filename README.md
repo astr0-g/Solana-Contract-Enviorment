@@ -9,7 +9,7 @@ This repository demonstrates setting up a Solana development environment using *
 Make sure you have the following installed:
 
 1. **Rust** (1.76.0): Install via [rustup](https://rust-lang.org/tools/install)
-2. **Solana CLI** (v1.17.25): Install via Solana's release script
+2. **Solana CLI** (v1.18.26): Install via Solana's release script
 3. **Node.js** (v20.18.0) and **Yarn**
 4. **Anchor CLI** (v0.29.0)
 

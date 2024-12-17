@@ -26,6 +26,16 @@ chmod +x setup_solana_env.sh
 ```
 ./setup_solana_env.sh
 ```
+
+give file permission
+```
+chmod 777 /path/to/file
+```
+
+give folder permission
+```
+chmod -R 777 /path/to/folder
+```
 ---
 
 ## 🚀 Getting Started
